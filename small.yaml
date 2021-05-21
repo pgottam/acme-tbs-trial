@@ -1,0 +1,37 @@
+[
+  {
+    "group": [
+      {
+        "id": "tanzu-buildpacks/nodejs"
+      }
+    ]
+  },
+  {
+    "group": [
+      {
+        "id": "tanzu-buildpacks/nginx"
+      }
+    ]
+  },
+  {
+    "group": [
+      {
+        "id": "tanzu-buildpacks/java-native-image"
+      }
+    ]
+  },
+  {
+    "group": [
+      {
+        "id": "tanzu-buildpacks/java"
+      }
+    ]
+  },
+  {
+    "group": [
+      {
+        "id": "paketo-buildpacks/procfile"
+      }
+    ]
+  }
+]
